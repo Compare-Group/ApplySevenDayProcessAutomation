@@ -11,8 +11,8 @@
         <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>Workflows.Tests</RootNamespace>
-        <AssemblyName>Workflows.Tests</AssemblyName>
+        <RootNamespace>Bis.ApplySevenDayProcessAutomation.Workflows.Tests</RootNamespace>
+        <AssemblyName>Bis.ApplySevenDayProcessAutomation.Workflows.Tests</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
